@@ -9,7 +9,8 @@
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/736x/bd/7a/8c/bd7a8cfa083b20f6a1777d5d514494ca.jpg"  />
+<!-- Esto es la foto que esta a la izquierda -->
+<img align="left" height="150" src="https://i.pinimg.com/736x/8a/fc/4a/8afc4a83c0701e39aa33e2993971c8a1.jpg"  />
 
 ###
 
